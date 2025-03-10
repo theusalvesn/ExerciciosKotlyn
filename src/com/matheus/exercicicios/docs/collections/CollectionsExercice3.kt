@@ -1,4 +1,4 @@
-package com.matheus.exercicicios.documentacao.collections
+package com.matheus.exercicicios.docs.collections
 /*
 Exercise 3
 Define a map that relates integer numbers from 1 to

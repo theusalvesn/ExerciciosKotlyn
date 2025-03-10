@@ -1,4 +1,4 @@
-package com.matheus.exercicicios.documentacao.loops
+package com.matheus.exercicicios.docs.loops
 /*
 You have a list of words. Use for and if to print only the words that
 start with the letter l.

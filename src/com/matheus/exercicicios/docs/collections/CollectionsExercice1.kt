@@ -1,4 +1,4 @@
-package com.matheus.exercicicios.documentacao.collections
+package com.matheus.exercicicios.docs.collections
 
 /*
 Exercise 1

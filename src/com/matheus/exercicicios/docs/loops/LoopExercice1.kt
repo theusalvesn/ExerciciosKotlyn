@@ -1,4 +1,4 @@
-package com.matheus.exercicicios.documentacao.loops
+package com.matheus.exercicicios.docs.loops
 /*
 Exercise 1
 You have a program that counts pizza slices until there’s a whole pizza with 8 slices. Refactor this program in two ways:

@@ -1,4 +1,4 @@
-package com.matheus.exercicicios.documentacao.loops
+package com.matheus.exercicicios.docs.loops
 
 /*
 Write a program that simulates the Fizz buzz game.

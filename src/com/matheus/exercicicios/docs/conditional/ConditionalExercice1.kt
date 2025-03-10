@@ -1,4 +1,4 @@
-package com.matheus.exercicicios.documentacao.conditional
+package com.matheus.exercicicios.docs.conditional
 
 import kotlin.random.Random
 
